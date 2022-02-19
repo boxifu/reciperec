@@ -1,0 +1,20 @@
+item1;item2;reason
+potato;banana;freckles
+sweetpotato;persimmon;lithiasis
+pork;water chestnuts;stomach ache
+beef;chestnuts;vomiting
+lamb;watermelon;decreased vigor for life
+dog;green bean;poisonous
+rabbit;celery;loss of hair
+chicken;celery;decreased vigor for life
+goose;chicken egg;decreased vigor for life
+turtle;amaranth;poisonous
+carp;liquorice;poisonous
+crab;persimmon;diarrhea
+chicken egg;saccharin;poisonous
+brown sugar;preserved egg;poisonous
+white wine;persimmon;chest pain
+onion;honey;damaged vision
+radish;fungus;dermatitis
+bean curd;honey;deaf
+peanut;cucumber;unknown
