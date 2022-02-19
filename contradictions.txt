@@ -1,20 +1,98 @@
 item1;item2;reason
-potato;banana;freckles
-sweetpotato;persimmon;lithiasis
-pork;water chestnuts;stomach ache
-beef;chestnuts;vomiting
-lamb;watermelon;decreased vigor for life
-dog;green bean;poisonous
-rabbit;celery;loss of hair
-chicken;celery;decreased vigor for life
-goose;chicken egg;decreased vigor for life
-turtle;amaranth;poisonous
-carp;liquorice;poisonous
-crab;persimmon;diarrhea
-chicken egg;saccharin;poisonous
-brown sugar;preserved egg;poisonous
-white wine;persimmon;chest pain
-onion;honey;damaged vision
-radish;fungus;dermatitis
 bean curd;honey;deaf
-peanut;cucumber;unknown
+bean;cheese;Ayurveda's food theory
+bean;egg;Ayurveda's food theory
+bean;fish;Ayurveda's food theory
+bean;fruit;Ayurveda's food theory
+bean;meat;Ayurveda's food theory
+bean;milk;Ayurveda's food theory
+bean;yogurt;Ayurveda's food theory
+beef;chestnuts;vomiting
+bell pepper;apricot trees;unknown
+bell pepper;fennel;unknown
+bell pepper;kohlrabi;unknown
+brown sugar;preserved egg;poisonous
+cabbage;cucumber;reduce the absorption of vitamin C
+carp;liquorice;poisonous
+carrot;alcohol;increase the burden on the liver
+carrot;fruit;reduce respective nutrients
+carrot;white radish;reduce nutrition
+cauliflower;cucumber;reduce the absorption of vitamin C
+cauliflower;pork liver;reduce absorption of trace elements
+chicken egg;saccharin;poisonous
+chicken;celery;decreased vigor for life
+chili pepper;apricot trees;unknown
+chili pepper;fennel;unknown
+chili pepper;kohlrabi;unknown
+corn;banana;Ayurveda's food theory
+corn;date;Ayurveda's food theory
+corn;raisin;Ayurveda's food theory
+crab;persimmon;diarrhea
+cucumber;shrimp;stomach discomfort
+cucumber;tomato;reduced absorption of vitamin C, acid formation and bloating
+dog;green bean;poisonous
+egg;cheese;Ayurveda's food theory
+egg;fish;Ayurveda's food theory
+egg;fruit, especially melons;Ayurveda's food theory
+egg;kitchari;Ayurveda's food theory
+egg;meat;Ayurveda's food theory
+egg;milk;Ayurveda's food theory
+egg;yogurt;Ayurveda's food theory
+eggplant;crab;stomach discomfort
+eggplant;cuttlefish;stomach discomfort
+fruit;everything;Ayurveda's food theory
+garlic;honey;diarrhea
+ginger;alcohol;constipation
+goose;chicken egg;decreased vigor for life
+grain;fruit;Ayurveda's food theory
+grain;tapioca;Ayurveda's food theory
+hot drink;cheese;Ayurveda's food theory
+hot drink;fish;Ayurveda's food theory
+hot drink;mango;Ayurveda's food theory
+hot drink;meat;Ayurveda's food theory
+hot drink;starch;Ayurveda's food theory
+hot drink;yogurt;Ayurveda's food theory
+lamb;watermelon;decreased vigor for life
+lemon;cucumber;Ayurveda's food theory
+lemon;milk;Ayurveda's food theory
+lemon;tomato;Ayurveda's food theory
+lemon;yogurt;Ayurveda's food theory
+lettuce;honey;diarrhea
+milk;banana;Ayurveda's food theory
+milk;bread containing yeast;Ayurveda's food theory
+milk;cherries;Ayurveda's food theory
+milk;fish;Ayurveda's food theory
+milk;kitchari;Ayurveda's food theory
+milk;meat;Ayurveda's food theory
+milk;melons;Ayurveda's food theory
+milk;sour fruit;Ayurveda's food theory
+milk;yogurt;Ayurveda's food theory
+onion;honey;damaged vision
+pea;spinach;kidney stone
+pea;vinegar;indigestion
+peanut;cucumber;Ayurveda's food theory
+pork;water chestnuts;stomach ache
+potato;banana;freckles
+potato;cucumber;Ayurveda's food theory
+potato;dairy product;Ayurveda's food theory
+potato;melon;Ayurveda's food theory
+rabbit;celery;loss of hair
+radish;banana;Ayurveda's food theory
+radish;fungus;dermatitis
+radish;milk;Ayurveda's food theory
+radish;raisins;Ayurveda's food theory
+soy bean;spinach;unknown
+soy bean;yogurt;reduce calcium digestion
+sweet potato;persimmon;lithiasis
+tomato;cucumber;Ayurveda's food theory
+tomato;dairy product;Ayurveda's food theory
+tomato;melon;Ayurveda's food theory
+turtle;amaranth;poisonous
+white wine;persimmon;chest pain
+yogurt;cheese;Ayurveda's food theory
+yogurt;fish;Ayurveda's food theory
+yogurt;fruit;Ayurveda's food theory
+yogurt;hot drink;Ayurveda's food theory
+yogurt;meat;Ayurveda's food theory
+yogurt;potato;Ayurveda's food theory
+yogurt;tomato;Ayurveda's food theory
