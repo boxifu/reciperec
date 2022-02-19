@@ -1,0 +1,20 @@
+vegetable
+bell pepper
+cabbage
+carrot
+cauliflower
+clilli pepper
+corn
+cucumber
+eggplant
+garlic
+ginger
+lettuce
+onion
+peas
+potato
+raddish
+soy beans
+spinach
+sweetpotato
+tomato

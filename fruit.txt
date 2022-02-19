@@ -1,0 +1,12 @@
+fruit
+apple
+banana
+grapes
+kiwi
+lemon
+mango
+orange
+pear
+pineapple
+pomegranate
+watermelon
